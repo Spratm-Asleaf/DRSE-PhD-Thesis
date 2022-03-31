@@ -26,7 +26,7 @@ The file "Examination Reports and Author Responses.pdf" is the corresponces betw
 
 ***Codes***
 
-Sources codes in this thesis can be accessed from (n.b., the links below have been properly referred to in the thesis):
+Sources codes for this thesis can be accessed from (n.b., the links below have been properly referred to in the thesis):
 
 [DRSE: Distributionally Robust State Estimation](https://github.com/Spratm-Asleaf/DRSE)
 
