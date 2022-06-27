@@ -20,9 +20,9 @@ From the Department of Industrial Systems Engineering and Management, National U
 
 ***Inventory***
 
-The file "Slides.pdf" is the oral defense slides. (To be uploaded soon after the thesis is online.)
+The file "Slides - For Quick Digest.pdf" highlights main points in the thesis. One may read it for a quick digest.
 
-The file "Examination Reports and Author Responses.pdf" is the corresponces between the thesis examiners and the author. (To be uploaded soon after the thesis is online.)
+The file "[Wang Shixiong] PhD_Thesis.pdf" is the finalized version of the thesis. (To be uploaded soon after the thesis is online.)
 
 ***Codes***
 
