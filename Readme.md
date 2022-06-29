@@ -20,9 +20,11 @@ From the Department of Industrial Systems Engineering and Management, National U
 
 ***Inventory***
 
-The file "Slides - For Quick Digest.pdf" highlights main points in the thesis. One may read it for a quick digest.
+The file "_Slides - For Quick Digest.pdf_" highlights main points in the thesis. One may read it for a quick digest.
 
-The file "[Wang Shixiong] PhD_Thesis.pdf" is the finalized version of the thesis. (To be uploaded soon after the thesis is online.)
+The file "_Slides - Oral Defense.pdf_" is a **simlified version** of "_Slides - For Quick Digest.pdf_", which is used for my Ph.D. oral defense.
+
+The file "[Wang Shixiong] PhD_Thesis.pdf" is the finalized version of the thesis. (Available online from **1 August 2022** onwards.)
 
 ***Codes***
 
