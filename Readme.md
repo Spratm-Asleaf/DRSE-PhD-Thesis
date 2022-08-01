@@ -12,7 +12,7 @@ Online supplementary materials of the PhD thesis titled
 
 **Distributionally Robust State Estimaiton**
 
-Published by the _National University of Singapore_ 
+Published by the _National University of Singapore_ [https://scholarbank.nus.edu.sg/handle/10635/229567]
 
 By Shixiong Wang
 
@@ -24,7 +24,7 @@ The file "_Slides - For Quick Digest.pdf_" highlights main points in the thesis.
 
 The file "_Slides - Oral Defense.pdf_" is a **simlified version** of "_Slides - For Quick Digest.pdf_", which is used for my Ph.D. oral defense.
 
-The file "[Wang Shixiong] PhD_Thesis.pdf" is the finalized version of the thesis. (Available online from **1 August 2022** onwards.)
+The file "[Wang Shixiong] PhD_Thesis.pdf" is the finalized version of the thesis.
 
 ***Codes***
 
